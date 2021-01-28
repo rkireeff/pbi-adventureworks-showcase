@@ -4,3 +4,7 @@
  Aside from the dataset, there is the PowerBI file ("AW_Report.pbix") and a Powerpoint file ("AW_Report.pptx").
  The pbix file contains the all the manipulation of the datasets and the data visualization layout.
  The pptx file contains the snapshot of the pbix file data visualization, without the usage of the dynamic filters.
+
+
+Preview for the first page of the report:
+![AW_Report](https://user-images.githubusercontent.com/78040263/106082246-1c214e00-60f9-11eb-9d2d-ebc8a860fe90.png)
